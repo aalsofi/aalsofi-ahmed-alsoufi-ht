@@ -1,0 +1,129 @@
+body {
+ margin: 0;
+    color: white;
+   /* background-image: url("images/space.jpg");
+    background-size: cover;*/
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+
+
+}
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+.jtitle{
+    background: #0f5a81;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+.acttitle{
+    text-shadow: 1px 0px 4px #0f5a81;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+.act-title{
+
+color:#0f5a81;
+ text-shadow: 0px 0px 2px whotesmoke;
+
+}
+
+.phttext{
+width:200px;word;
+font-weight: normal;
+text-align: center;
+color:#0f5a81;
+position:relevant;
+}
+
+.pht{
+
+ 
+    justify-content: end;
+widht:300px;
+
+
+}
+
+.activ-main {
+  display: flex;
+  text-align: center;
+    justify-content: center;
+
+
+
+}
+#db{
+ background:#e6e9ed;
+height:auto;
+padding:100px 0 100px 0;
+}
+
+
+.act-child{
+width:200px;
+height :200px;
+margin-left:20px;
+margin-right:20px;
+ border-radius:20px;
+border: 4px solid  #0f5a81;
+    background-size: cover;
+}
+
+#act1{
+  background-image: url("images/Water-Sports.jpg");
+
+}
+#act2{
+    background-image: url("images/al-shalal.jpg");
+
+}
+#act3{
+    background-image: url("images/desert.jpg");
+
+}
+
+#head {
+    background-image: url("images/img-header.jpg");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+height :400px;
+  display: flex;
+ justify-content: center;
+    flex-direction: column;
+    align-items: center;
+text-align: center;
+
+}
+
+.avatar {
+    width: 150px;
+height:150px;
+}
+
+.card {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+margin-top:100px;
+margin-bottom:100px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: arial;
+     background: #0f5a81;
+    color: #white;
+    border-bottom: 10px  solid #e6e9ed;
+border-radius:10px 10px  0 0;
+}
+.cardt{
+margin:10px 10px;
+}
+.border-blue {
+    border: 1px dotted blue;
+}
+    
